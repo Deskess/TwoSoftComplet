@@ -1,0 +1,38 @@
+[
+    {
+        "User": "Alain",
+        "Age": 27,
+        "Category": "Laptop",
+        "Price": 1299.0,
+        "Article": "Asuze ",
+        "HashTable": 567655,
+        "PasswordHash": "b575eb92cc5858ac96dd2f788fa6eb6ffcbc99fbeff502dad111d1da77cdbe0f"
+    },
+    {
+        "User": "Kess",
+        "Age": 47,
+        "Category": "Laptop",
+        "Price": 2500.0,
+        "Article": "MacBook ",
+        "HashTable": 100280,
+        "PasswordHash": "f2b087c1371680712e274dd766242ecbfd9a9dceaa3cada8eba84438d8d4f6d5"
+    },
+    {
+        "User": "Mario",
+        "Age": 23,
+        "Category": "computer",
+        "Price": 1200.0,
+        "Article": "MacBook",
+        "HashTable": 975625,
+        "PasswordHash": "18652f11d1964a53ba251f59e1fa65a9e4e261b05b18fcf83dc9dab5537db589"
+    },
+    {
+        "User": "Mario",
+        "Age": 34,
+        "Category": "electronics",
+        "Price": 2000.0,
+        "Article": "mini pc",
+        "HashTable": 612961,
+        "PasswordHash": "18652f11d1964a53ba251f59e1fa65a9e4e261b05b18fcf83dc9dab5537db589"
+    }
+]

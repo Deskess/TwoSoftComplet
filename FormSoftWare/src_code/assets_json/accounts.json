@@ -1,0 +1,11 @@
+{
+    "Accounts": [
+        {
+            "User": "Mario",
+            "PasswordHash": "18652f11d1964a53ba251f59e1fa65a9e4e261b05b18fcf83dc9dab5537db589"
+        }
+    ],
+    "UsedActivationKeys": [
+        "e274a60dfed940eda912e90b5fcae5871c9848a5dd3ced2faca8b1e2b16871e4"
+    ]
+}
